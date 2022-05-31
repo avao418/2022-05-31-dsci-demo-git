@@ -2,3 +2,5 @@
 Our first DSCI 100 Git Repository 
 
 Welcome to summer 2022!
+
+Hello world. 
